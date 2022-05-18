@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/spottabl/static/css/main.2019472d.css",
-    "main.js": "/spottabl/static/js/main.9c2e3211.js",
+    "main.js": "/spottabl/static/js/main.e226381b.js",
     "static/js/787.d2ba2272.chunk.js": "/spottabl/static/js/787.d2ba2272.chunk.js",
     "static/media/spottableicon.png": "/spottabl/static/media/spottableicon.bcd9fab9e425d3897df3.png",
     "index.html": "/spottabl/index.html",
     "main.2019472d.css.map": "/spottabl/static/css/main.2019472d.css.map",
-    "main.9c2e3211.js.map": "/spottabl/static/js/main.9c2e3211.js.map",
+    "main.e226381b.js.map": "/spottabl/static/js/main.e226381b.js.map",
     "787.d2ba2272.chunk.js.map": "/spottabl/static/js/787.d2ba2272.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2019472d.css",
-    "static/js/main.9c2e3211.js"
+    "static/js/main.e226381b.js"
   ]
 }
