@@ -83,5 +83,90 @@ export default [
         email:'pavanyecham@spottabl.com',
         job:'sales force',
         shortcut:'PY'
+    },
+    {
+        id:14,
+        name:"zeevan sundhar",
+        job:"front-developer",
+        shortcut:"ZS"
+    },
+    {
+        id:15,
+        name:"Yeswanth kumar",
+        job:"back-end-developer",
+        shortcut:"YK"
+    },
+    {
+        id:16,
+        name:"wasu dev",
+        job:"full stack developer",
+        shortcut:"WD"
+    },
+    {
+        id:17,
+        name:"varsitha naidu",
+        job:"Data engineering",
+        shortcut:"VN"
+
+    },
+    {
+        id:18,
+        name:"upendhra singh",
+        job:"UI/UX designer",
+        shortcut:"US"
+    },
+    {
+        id:19,
+        name:"tanuja jersey",
+        job:"solution engineer",
+        shortcut:"TJ"
+    },
+    {
+        id:20,
+        name:'srikanth heroes',
+        email:'arunadhawan@spottabl.com',
+        job:'Civil engineer',
+        shortcut:'SH'
+    },
+    {
+        id:21,
+        name:'Revant Reddy',
+        email:'akashmadhuria@sopptabl.com',
+        job:'machine operator',
+        shortcut:'RR'
+    },
+    {
+        id:22,
+        name:'mercy queen',
+        email:'avinashadhurs@spottabl.com',
+        job:'sales force',
+        shortcut:'MQ'
+    },
+    {
+        id:23,
+        name:"prasanth Neel",
+        job:"movie director",
+        shortcut:"PN"
+    },
+    {
+        id:24,
+        name:'Omygod spottable',
+        email:'arunadhawan@spottabl.com',
+        job:'movie director',
+        shortcut:'OS'
+    },
+    {
+        id:25,
+        name:'nikhila challa',
+        email:'akashmadhuria@sopptabl.com',
+        job:'post officer',
+        shortcut:'NC'
+    },
+    {
+        id:26,
+        name:'Madhava vihari',
+        email:'pavanyecham@spottabl.com',
+        job:'sales force',
+        shortcut:'MV'
     }
 ]
