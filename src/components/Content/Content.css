@@ -1,0 +1,57 @@
+.content{
+  margin: 0;
+  background: #FAF5F5;
+  background-color: rgb(252, 250, 252);
+
+}
+.headw{
+    text-align: left;
+    margin-left: 20px;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.bar-btn{
+  padding:20px;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+  background-color:white;
+  padding-left: 0;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.wrapper>div {
+  flex: 1;
+}
+
+.wrapper>.top{
+  padding-left: 50px;
+
+}
+
+.wrapper>.right {
+  background: rgb(63, 63, 206);
+  color: azure;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+.uppi{
+  padding: 20px;
+}
+.card-btn{
+  padding-left: 20px; 
+  padding-right: 20px;
+}
